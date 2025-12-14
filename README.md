@@ -80,6 +80,6 @@ copy: https://solscan.io/tx/2eM7KRvoWuyLZCxWVBmDhZUyecL8TJZXhp4Tbe7ftQcyYGQYBGgP
 
 ### Contact
 
-telegram: @Rianeregoista83
+telegram: @ajee709
 
 You can contact me here if you have any problems with this repo then we can decide comfortable contact way.
