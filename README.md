@@ -1,11 +1,7 @@
 # 🚀 **Copy trading Bot using Rust**
 
-Welcome to the ** Copy trading Bot **! This bot watches for target wallet (whale) on the Solana blockchain in real-time, copy trading like target trading.
-🌟 You can swap token in 0 blocks after target wallet swap.
-if you use node, you can swap in same block
-
-next block:  80%
-same block: 20%
+A high-performance Solana copy trading bot built on Jito Stream parsing, designed to monitor, analyze, and replicate the trades of top-performing wallets in real time with near-zero latency.
+The system parses Jito’s MEV-optimized transaction streams to detect swaps, liquidity events, and strategy signals before finalization, enabling fast and accurate trade mirroring across supported Solana DEXs. By operating directly on Jito’s data flow, the bot gains a speed and reliability advantage over traditional RPC-based monitoring.
 
 if you use dedicate node, you 'll be able to swap in same block
 
